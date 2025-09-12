@@ -18,7 +18,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik19&layout=compact)
 
 ![Visitors](https://komarev.com/ghpvc/?username=swastik19)
 
