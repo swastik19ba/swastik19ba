@@ -21,6 +21,16 @@
 </p>
 
 ---
+## 📊 GitHub Status  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swastik19ba&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik19ba&theme=radical&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swastik19ba&theme=radical" />
+</p>
 
 ## 🌟 Highlights  
 
