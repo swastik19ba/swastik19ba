@@ -1,13 +1,18 @@
-<!-- 🌟 Animated Typing Header -->
+<!-- 🌌 Futuristic Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Swastik%20Banerjee%20✨&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
+
+<!-- 🌟 Animated Typing -->
 <p align="center">
   <a href="https://github.com/swastik19">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Swastik+Banerjee+👋;Machine+Learning+Explorer+🧠;Computer+Vision+%7C+OpenCV+👁️;Generative+AI+%7C+Agentic+AI+🤖;Always+Curious+%7C+Always+Building+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=200&color=8A2BE2&center=true&vCenter=true&width=600&lines=Machine+Learning+Explorer+🧠;OpenCV+Visioneer+👁️;Generative+AI+Dreamer+🤖;Agentic+AI+Innovator+⚡;Always+Curious+%7C+Always+Building+🚀" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-# 🌌 About Me  
+# 👨‍💻 About Me  
 
 ✨ Passionate **AI enthusiast** crafting innovative projects in  
 **Machine Learning | OpenCV | Generative AI | Agentic Systems**  
@@ -45,33 +50,28 @@
 
 ---
 
-# 📊 GitHub Analytics  
+# ⚡ Fun Facts  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swastik19&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik19&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=swastik19&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+✨ I treat **debugging** as detective work 🕵️‍♂️  
+🎶 I code better when I listen to **lo-fi beats** 🎧  
+🌌 I believe **AI is the new electricity** ⚡  
+💡 My motto: *"Learn, Build, Share, Inspire"* 🚀  
 
 ---
 
-# 🐍 Contribution Snake  
+# 🌍 Connect With Me  
 
 <p align="center">
-  <img src="https://github.com/swastik19/swastik19/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/swastik19">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
----
-
-# 🚀 Projects I'm Exploring  
-
-- 🧠 **ML Models** for prediction & analysis  
-- 👁️ **Computer Vision** with OpenCV  
-- 🤖 **Generative AI & Agentic AI prototypes**  
-- 📊 **Data Science tools & Visualization**  
 
 ---
 
@@ -83,14 +83,6 @@
 
 ---
 
-# 👀 Profile Visitors  
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swastik19&label=Profile%20Views&color=00F7FF&style=flat-square" alt="views"/>
-</p>
-
----
-
-<p align="center">
-  ✨ *AI isn’t just the future — it’s the present, and I’m here to shape it!* ✨  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 </p>
