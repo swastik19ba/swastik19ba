@@ -16,10 +16,25 @@
 
 ## 🛠️ Tech Stack  
 
+## 🛠️ Tech Stack  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn,git,github,vscode,java,mysql,linux&theme=dark" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,linux&theme=dark" /><br>
+  <b>Languages:</b> Python, Java, MySQL, Linux  
 </p>
 
+<p align="center">
+  <!-- AI/ML -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" /><br>
+  <b>AI/ML & CV:</b> PyTorch, TensorFlow, Scikit-learn, OpenCV  
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /><br>
+  <b>Tools & Platforms:</b> Git, GitHub, VS Code  
+</p>
 ---
 ## 📊 GitHub Status  
 
